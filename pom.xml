@@ -11,12 +11,12 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <serenity.version>2.2.9</serenity.version>
-        <serenity.maven.version>2.2.9</serenity.maven.version>
-        <serenity.cucumber.version>2.2.5</serenity.cucumber.version>
+        <serenity.version>2.3.4</serenity.version>
+        <serenity.maven.version>2.3.4</serenity.maven.version>
+        <serenity.cucumber.version>2.3.4</serenity.cucumber.version>
         <encoding>UTF-8</encoding>
         <tags></tags>
-        <parallel.tests>4</parallel.tests>
+        <parallel.tests>2</parallel.tests>
         <webdriver.base.url></webdriver.base.url>
     </properties>
 
